@@ -1,0 +1,12 @@
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Build output
+build/
+dist/
+
+# Local IDE settings
+.vscode/
